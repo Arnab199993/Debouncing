@@ -15,3 +15,13 @@ const dosomemagic=((fn,delay)=>{  //this funcion will take another function and 
   }
 })
 const betterfunction=dosomemagic(getData,300)
+
+
+
+
+// const [timeoutId,settimeoutId]=useState()
+//   const onTextChange=((event)=>{ 
+//     clearTimeout(timeoutId)
+//     const timeout= setTimeout(()=>console.log("APi Call"),500)  //React Method
+//       settimeoutId(timeout)
+//   })
